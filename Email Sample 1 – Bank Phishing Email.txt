@@ -1,0 +1,12 @@
+From: authenticationmail@trust.ameribank7.com
+To: johnsmith@email.com
+Subject: A new login to your bank account
+Bank of America
+Dear account holder,
+There has been a recent login to your bank account from a new divice:
+IP address: 192.168.0.1
+Location: Miami, Florida
+4 new transactions have been made with this account since your last login.
+If this was not you, please reset your password immediately with this link:
+https://trust.ameribank7.com/reset-password
+Thank you, Bank America
